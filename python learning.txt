@@ -2,4 +2,4 @@ sets
 tuple
 list
 dictionary
-number
+python map zip filter functions

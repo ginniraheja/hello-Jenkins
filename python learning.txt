@@ -8,3 +8,4 @@ opps
 encapsulation
 data hiding
 abstraction
+strings

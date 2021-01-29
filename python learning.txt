@@ -3,3 +3,6 @@ tuple
 list
 dictionary
 python map zip filter functions
+numbers
+opps
+encapsulation
